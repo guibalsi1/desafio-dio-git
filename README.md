@@ -1,2 +1,2 @@
-# desafio-dio-git
-Projeto do primeiro Repositório do Git
+# Desafio de Projeto da Dio
+Projeto do primeiro Repositório do Git/GitHub para compartilhar os conhecimentos aprendidos sobre versionamento de código
