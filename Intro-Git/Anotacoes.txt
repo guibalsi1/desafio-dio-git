@@ -1,0 +1,3 @@
+Sim, utilizo Git e GitHub regularmente em meus projetos pessoais e acadêmicos. Todos os meus projetos estão versionados no GitHub, onde mantenho o código organizado, com README explicativos, commits semânticos e histórico de alterações bem documentado.
+
+Uma experiência marcante foi durante o desenvolvimento de projetos em React e Python, onde usei branches para separar funcionalidades, commits frequentes para rastreabilidade e pull requests para revisão de código — mesmo trabalhando sozinho, simulei esse fluxo para me habituar às boas práticas de times reais. Também usei o GitHub para hospedar páginas com GitHub Pages e para documentar estudos.
